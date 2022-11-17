@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 
-- 📫 How to reach me **bugnonjelisharuth@gmail.com**
+- 📫 How to reach me <a href="https://t.me/jelisharbb" target="blank">@jelisharbb</a> 
 
 <hr>
 
