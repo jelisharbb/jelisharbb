@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **CSS, and JavaScript**
 
-- 📫 How to reach me <a href="https://t.me/jelisharbb" target="blank">@jelisharbb</a> 
 
 <hr>
 
