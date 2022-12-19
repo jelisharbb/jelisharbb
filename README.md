@@ -1,5 +1,4 @@
 <h1 align="center">Hello, world! Jelisha here.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jelisharbb&label=Profile%20views&color=0e75b6&style=flat" alt="jelisharbb" /> </p>
 
 <hr>
 
