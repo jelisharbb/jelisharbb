@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a BS Computer Engineering student majoring in Big Data at the Polytechnic University of the Philippines. Currently, I am taking online courses and self-studying as I am aspiring to become a Data Analyst.</p>
+<p align="left">I am a BS Computer Engineering student majoring in Big Data at the Polytechnic University of the Philippines. Currently, I am taking online courses and self-studying Data Analysis.</p>
 
 ###
 
